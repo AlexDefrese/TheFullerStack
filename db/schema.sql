@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS stacks_db;
+
+CREATE DATABASE stacks_db;
