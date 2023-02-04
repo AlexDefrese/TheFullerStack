@@ -1,11 +1,26 @@
-# TheFullerStack
+# <u>The Fuller Stack</u>
 
-![Screenshot of The Fuller Stack Homepage](./assets/FullerStackCapture.png)
+  ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## Purpose:
-To create a full stack website that allows users to post, update, read, and vote different articles/posts.
+  ![Screenshot of The Fuller Stack Homepage](./assets/FullerStackCapture.png)
+  
 
-## Built With: 
+  ## <u>Table of Contents:</u>
+  ### [License](#license)
+  ### * [Description](#description)
+  ### * [Installation](#install)
+  ### * [Usage](#usage)
+  ### * [Contributors](#contributors)
+  ### * [Testing](#testing)
+  ### * [Questions](#questions)
+
+  ## License
+  ### MIT
+
+  ## <u>Description</u>
+  ### This is a sample social-media app that allows users to post their thoughts, comment on other users posts, and vote on their favorite posts. 
+
+  ## Built With: 
 - JavaScript
 - Expressjs
 - MySQL
@@ -13,13 +28,22 @@ To create a full stack website that allows users to post, update, read, and vote
 - Handlebars
 - NodeJS
 
-## Links
-
-Link to deployed app:
+  ## <u>Installation:</u>
+  ### Please follow these steps to install:
 https://protected-harbor-61276.herokuapp.com/
 
-Link to GitHub:
-https://github.com/AlexDefrese/TheFullerStack
+  ## <u>Usage:</u>
+  ### Simply login and start posting away. 
 
-## Contribution:
-Made by Alex Defrese
+  ## <u>Contributors:</u> 
+  ### Alex Defrese
+
+  ## <u>Testing:</u>
+  ### Please follow these steps to test the project:
+  ### After logging in, try to enter incorrect credentials.
+
+  ## <u>Questions:</u> 
+  ### If you have any questions or suggestions, please contact me through either
+  ### GitHub: https://github.com/AlexDefrese
+  ### or
+  ### Email: aidandefrese@gmail.com
